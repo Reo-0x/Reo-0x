@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 Hi, I'm Reo!
 
-<!--
-**Reo-0x/Reo-0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring developer with 1+ years of experience in full-stack development and a growing passion for cybersecurity. I love solving real-world problems with code and building tools that make life more efficient.
+🌟 Skills
 
-Here are some ideas to get you started:
+    Programming Languages: Python, JavaScript, SQL, HTML, CSS
+    Frameworks & Tools: Flask, React
+    Platforms & Systems: Linux (Arch, Kali), MySQL
+    Specialties: AI scripting, cybersecurity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projects
+
+    SQL Injection Scanner: Cybersecurity tool to detect SQL vulnerabilities.
+    CryptoTool: A Python utility for cryptographic operations.
+    
+
+Let's connect and build something amazing together! 🚀
