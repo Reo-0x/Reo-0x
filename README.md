@@ -2,9 +2,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTgzaDBiazB1ZG83eWd2bDk2cDl5Y21wdGpvaTZxaW9td2Jhd3dieSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7GqT05WS3bc9i5UyaM/giphy.webp" />
-
-###
 
 <p align="left">
   Aspiring developer with 1+ years of experience in full-stack development and a growing passion for cybersecurity. I love solving real-world problems with code and building tools that make life more efficient.
@@ -14,7 +11,9 @@
 
 
 
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTgzaDBiazB1ZG83eWd2bDk2cDl5Y21wdGpvaTZxaW9td2Jhd3dieSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7GqT05WS3bc9i5UyaM/giphy.webp" />
 
+###
 
 <h2 align="left">🌟 Skills</h2>
 
