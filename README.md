@@ -5,8 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" height="120" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWxhaDc3NWYzMjgxNXFlYXdjODVsMjV1NTlkbXIwZWlyazIxcjN2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l378BWhbbW8FJiq1W/giphy.gif" height="120" width="800"/>
 </p>
+
 
 <p align="center" style="color:#f022fe;">
   🌐 REO.exe is watching... Let's create the future, one commit at a time. ⚡
